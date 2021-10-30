@@ -1,2 +1,2 @@
 # HS-LINK
-打造开源的jata工具
+打造开源的JTAG工具
